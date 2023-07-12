@@ -62,7 +62,7 @@ window.onload = function () {
   };
 
   spriteFin = new Image();
-  spriteFin.src = "https://static.vecteezy.com/system/resources/previews/019/045/905/original/monkey-graphic-clipart-design-free-png.png" +
+  spriteFin.src = "https://cdn-icons-png.flaticon.com/512/4946/4946752.png" +
     "?" +
     new Date().getTime();
   spriteFin.setAttribute("crossOrigin", " ");
