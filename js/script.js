@@ -50,7 +50,7 @@ window.onload = function () {
   };
   sprite = new Image();
   sprite.src =
-    "../imagenes/mono.png" +
+    "https://static.vecteezy.com/system/resources/previews/019/045/905/original/monkey-graphic-clipart-design-free-png.png" +
     "?" +
     new Date().getTime();
   sprite.setAttribute("crossOrigin", " ");
@@ -62,7 +62,7 @@ window.onload = function () {
   };
 
   spriteFin = new Image();
-  spriteFin.src = "../imagenes/selva.png" +
+  spriteFin.src = "https://static.vecteezy.com/system/resources/previews/019/045/905/original/monkey-graphic-clipart-design-free-png.png" +
     "?" +
     new Date().getTime();
   spriteFin.setAttribute("crossOrigin", " ");
